@@ -1,0 +1,5 @@
+[submodule "articles"]
+	branch = articles
+	path = articles
+	shallow = true
+	url = ./
