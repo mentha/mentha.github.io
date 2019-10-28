@@ -1,5 +1,4 @@
 [submodule "articles"]
-	branch = articles
 	path = articles
-	shallow = true
-	url = ./
+	url = https://github.com/mentha/mentha.github.io.git
+	branch = articles
